@@ -1,7 +1,7 @@
 # JUnit Example using IntelliJ
 Example project with JUnit testing generated with IntelliJ
 ## Developer Notes
-* Pay special attention to method ```beforeAll()``` in file ```Calculator.java``` 
+* Pay special attention to method ```beforeAll()``` in file ```CalculatorTest.java``` 
 where I show how to get the version number of JUnit 5 being used.
 ## Tools Used
 
