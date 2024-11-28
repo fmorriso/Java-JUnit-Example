@@ -17,3 +17,4 @@ Example project with JUnit testing generated with IntelliJ
 
 ## References
 * [Getting started with JUnit](https://www.jetbrains.com/help/idea/junit.html#intellij)
+* [JUnit 5](https://junit.org/junit5/)
