@@ -33,10 +33,10 @@ class CalculatorTest {
         final ServiceLoader<TestEngine> loader = ServiceLoader.load(TestEngine.class);
         final Iterator<TestEngine> iterator = loader.iterator();
         final TestEngine testEngine = iterator.next();
-        String version = "unknown";
+        String junitVersion = "unknown";
         if(testEngine.getVersion().isPresent()){
-            version = testEngine.getVersion().get();
+            junitVersion = testEngine.getVersion().get();
         }
-        System.out.println("JUnit Test Engine Version: " + version);
+        System.out.format("JUnit Test Engine Version: %s%n", junitVersion);
     }
 }
