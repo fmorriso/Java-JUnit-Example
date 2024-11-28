@@ -10,7 +10,7 @@ where I show how to get the version number of JUnit 5 being used.
 | Java     | 23.0.1.0 |
 | JUnit    |   5.11.3 |
 | IntelliJ | 2024.3.0 |
-| VSCode   |   1.95.2 |
+| VSCode   |   1.95.3 |
 
 ## Change History
 
